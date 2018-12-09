@@ -1,0 +1,13 @@
+{
+  "name": "DCFS Trivia",
+  "description": "DCFS Trivia Bot",
+  "version": "0.0.0",
+  "main": "red.py",
+  "scripts": {
+   "start": "node red.py"
+  },
+  "dependencies": {
+   "discord.js": "11.1.0",
+   "request": "2.81.0"
+  }
+}
