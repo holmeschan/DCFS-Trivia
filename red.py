@@ -641,3 +641,4 @@ if __name__ == '__main__':
             exit(26) # Restart
         else:
             exit(1)
+      client.login(process.env.BOT_TOKEN);
